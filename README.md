@@ -1,1 +1,0 @@
-# sinif-app
